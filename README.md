@@ -16,9 +16,9 @@ click "Load Unpacked" and go inside the folder that is inside the previously ext
 STEP 5:
 click the puzzle piece next to the search box and find Schwimmble in the menu that opens, and click the pin button next to it.
   
-  
-  
-  
+  <br/>
+  <br/>
+  <br/>
 ### TO UPDATE: ###
 STEP 1:
 install the new version and perform the first 2 steps
@@ -29,9 +29,9 @@ return to chrome://extensions and find Schwimmble, then press remove
 STEP 3: 
 perform steps 4 and 5 again with the new version folder
   
-  
+  <br/>
 or:
-  
+  <br/>
   
 STEP 1:
 unzip the downloaded .zip file (see step 2)
