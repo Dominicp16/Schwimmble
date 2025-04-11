@@ -1,4 +1,4 @@
-below instructions are made for Chromebooks
+below instructions are made for Chromebooks<br/>
   
 ### TO INSTALL: ###
 STEP 1:
@@ -17,7 +17,6 @@ STEP 5:
 click the puzzle piece next to the search box and find Schwimmble in the menu that opens, and click the pin button next to it.
 
 <br/>
-<br/>
 
 ### TO UPDATE: ###
 STEP 1:
@@ -31,6 +30,7 @@ perform steps 4 and 5 again with the new version folder
 <br/>
 or:
 <br/>
+
 STEP 1:
 unzip the downloaded .zip file (see step 2)
 
