@@ -1,4 +1,4 @@
-below instructions are made for Chromebooks<br/><br/>
+below instructions are made for Chromebooks and are assuming you downloaded the zip file<br/><br/>
   
 ### TO INSTALL: ###
 STEP 1:
