@@ -1,4 +1,4 @@
-below instructions are made for Chromebooks<br/>
+below instructions are made for Chromebooks<br/><br/>
   
 ### TO INSTALL: ###
 STEP 1:
@@ -26,10 +26,9 @@ STEP 2:
 return to chrome://extensions and find Schwimmble, then press remove
 
 STEP 3: 
-perform steps 4 and 5 again with the new version folder  
-<br/>
-or:
-<br/>
+perform steps 4 and 5 again with the new version folder<br/>
+
+or:<br/>
 
 STEP 1:
 unzip the downloaded .zip file (see step 2)
