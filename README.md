@@ -139,7 +139,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
   </br>
   </br>
 
-### MODS ### (not yet implemented)
+### MODS: ### (not yet implemented)
 
 create a folder and in it, put a file called mod.config
 
