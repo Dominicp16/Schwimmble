@@ -96,7 +96,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 :frown:
 
-:grin:
+:grin\:
 
 :hmm:
 
@@ -110,11 +110,11 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 :schwimmble:
 
-:smile:
+:smile\:
 
-:tongue:
+:tongue\:
 
-:wink:
+:wink\:
 
 :yikes:
 
@@ -130,7 +130,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 :blank:
 
-:no_mouth:
+:no_mouth\:
 
 :ahh:
 
