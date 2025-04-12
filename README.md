@@ -139,9 +139,14 @@ to use emojis, you put the emoji name between two colons (some names have slashe
   </br>
   </br>
 
-### MODS: ### (not yet implemented)
+### MODS: (not yet implemented) ###
 
-create a folder and in it, put a file called mod.config
+create a folder and in it, put a file called "mod.config"
 
 BASIC CONFIG:</br>
-put the [basic] tag at the top of your mod.config file
+put a [basic] tag at the top of your mod.config file
+
+put a name element under that, and after it put an equal sign, and then the name of your mod (for spaces, use two underlines, and for multiple underlines, the amount of underlines you want + 1)
+<code>
+name=Schwimmble__Mod__Example
+</code>
