@@ -88,7 +88,7 @@ SMR: turns the selected text extra-small
 BIGR: turns the selected text extra-big</br>
 
 ### EMOJIS: ###
-to use emojis, you put the emoji name between two colons (some names have slashes, DO NOT type the slashes when putting the emoji in Schwimmble)
+to use emojis, you put the emoji name between two colons (some names have slashes, DO NOT type the slashes when putting the emoji in Schwimmble). you can hover over an emoji in someone's message to see the name of it
 
 :\cool:
 
