@@ -147,22 +147,35 @@ BASIC CONFIG:</br>
 put a [basic] tag at the top of your mod.config file
 
 put a "name" element under that, and after it put an equal sign, and then the name of your mod with two underlines instead of spaces
+supports any string.
 <code>
 [basic]
 name=Schwimmble__Mod__Example
 </code> would name the mod "Schwimmble Mod Example"
 
 you can add a "desc" element (optional), with the value set to the description of your mod
+supports any string.
 <code>
 [basic]
 name=Schwimmble__Mod__Example
 desc=This__is__the__description__of__this__Schwimmble__mod.
 </code> would set the description of the mod to "This is the description of this Schwimmble mod."
 
-you can add an "imgPath" element (optional), with the value set to the path of the image of your mod
+you can add an "imgPath" element (optional), with the value set to the path of the image of your mod (when not set the default is \img\picture.png, if that doesn't exist then it uses Schwimmble Bronson-Jazz's head.
+supports image paths
 <code>
 [basic]
 name=Schwimmble__Mod__Example
 desc=This__is__the__description__of__this__Schwimmble__mod.
-imgPath=\img\picture.png
+imgPath=\img\modPicture.png
 </code> would set the image for the mod to the file at <folder_where_mod.config_is>\img\profile.png
+
+you can add a "ver" element (optional), with the value set to the version of the mod (defaults to 0.0.1)
+supports up to four integers (could have -alpha or -beta after one number, but only one of each) separated by periods
+<code>
+[basic]
+name=Schwimmble__Mod__Example
+desc=This__is__the__description__of__this__Schwimmble__mod.
+imgPath=\img\modPicture.png
+version=1.1.1
+</code> would set the version of the mod to v1.1.1
