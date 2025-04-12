@@ -40,4 +40,5 @@ STEP 3:
 drag the folder in the newly unzipped folder into the old schwimmble folder</br>
   </br>
 
+
 ### HOW TO USE STYLIZATION MENU: ###
