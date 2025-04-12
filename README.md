@@ -146,8 +146,15 @@ create a folder and in it, put a file called "mod.config"
 BASIC CONFIG:</br>
 put a [basic] tag at the top of your mod.config file
 
-put a name element under that, and after it put an equal sign, and then the name of your mod with two underlines instead of spaces</br>
+put a "name" element under that, and after it put an equal sign, and then the name of your mod with two underlines instead of spaces
 <code>
 [basic]
 name=Schwimmble__Mod__Example
 </code> would name the mod "Schwimmble Mod Example"
+
+you can add a "desc" element (optional), with the value set to the description of your mod
+<code>
+[basic]
+name=Schwimmble__Mod__Example
+desc=This__is__the__description__of__this__Schwimmble__mod.
+</code> would set the description of the mod to "This is the description of this Schwimmble mod."
