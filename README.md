@@ -182,7 +182,7 @@ version=1.1.1
 
 
 FUNCTIONAL CONFIG:</br>
-put a [function] tag at the top of your mod.config file
+put a [function] tag at the top of your mod.config file (typically a line break would go before it but not here for succinctness)
 
 you can add a "background" tag under, with the value set to the path of your custom background (if the value is left blank then it defaults to \img\backgrounds\background.png).
 supports image paths.
