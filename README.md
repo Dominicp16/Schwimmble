@@ -141,7 +141,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 ### MODS: (not yet implemented) ###
 
-create a folder and in it, put a file called "mod.config"
+create a folder, and in it put a file called "mod.config", and two folders called "img" and "modules"
 
 BASIC CONFIG:</br>
 put a [basic] tag at the top of your mod.config file
@@ -158,3 +158,11 @@ you can add a "desc" element (optional), with the value set to the description o
 name=Schwimmble__Mod__Example
 desc=This__is__the__description__of__this__Schwimmble__mod.
 </code> would set the description of the mod to "This is the description of this Schwimmble mod."
+
+you can add an "imgPath" element (optional), with the value set to the path of the image of your mod
+<code>
+[basic]
+name=Schwimmble__Mod__Example
+desc=This__is__the__description__of__this__Schwimmble__mod.
+imgPath=\img\picture.png
+</code> would set the image for the mod to the file at <folder_where_mod.config_is>\img\profile.png
