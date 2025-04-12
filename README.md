@@ -192,7 +192,6 @@ name=Schwimmble__Mod__Example
 desc=This__is__the__description__of__this__Schwimmble__mod.
 imgPath=\img\modPicture.png
 version=1.1.1
-
 [function]
 background=\img\backgrounds\modBackground.gif
 </code> would set the background picture to the image at \img\backgrounds\modBackground.gif
