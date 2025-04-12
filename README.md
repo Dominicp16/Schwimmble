@@ -135,3 +135,13 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 :ahh:
 
 :glod:
+
+  </br>
+  </br>
+
+### MODS ### (not yet implemented)
+
+create a folder and in it, put a file called mod.config
+
+BASIC CONFIG:</br>
+put the [basic] tag at the top of your mod.config file
