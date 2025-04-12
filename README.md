@@ -90,7 +90,7 @@ BIGR: turns the selected text extra-big</br>
 ### EMOJIS: ###
 to use emojis, you put the emoji name between two colons (some names have slashes, DO NOT type the slashes when putting the emoji in Schwimmble)
 
-:\cool\:
+:\cool:
 
 :eyeroll:
 
@@ -110,11 +110,11 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 :schwimmble:
 
-:smile:\
+:\smile:
 
-\:tongue\:
+:\tongue:
 
-\:wink:
+:\wink:
 
 :yikes:
 
@@ -130,7 +130,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 :blank:
 
-:no_mouth\:
+:\no_mouth:
 
 :ahh:
 
