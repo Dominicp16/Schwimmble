@@ -161,7 +161,7 @@ name=Schwimmble__Mod__Example
 desc=This__is__the__description__of__this__Schwimmble__mod.
 </code> would set the description of the mod to "This is the description of this Schwimmble mod."
 
-you can add an "imgPath" element (optional), with the value set to the path of the image of your mod (when not set the default is \img\picture.png, if that doesn't exist then it uses Schwimmble Bronson-Jazz's head.
+you can add an "imgPath" element (optional), with the value set to the path of the icon of your mod (when not set the default is \img\picture.png, if that doesn't exist then it uses Schwimmble Bronson-Jazz's head.
 supports image paths.
 <code>
 [basic]
@@ -179,3 +179,20 @@ desc=This__is__the__description__of__this__Schwimmble__mod.
 imgPath=\img\modPicture.png
 version=1.1.1
 </code> would set the version of the mod to v1.1.1
+
+
+FUNCTIONAL CONFIG:</br>
+put a [function] tag at the top of your mod.config file
+
+you can add a "background" tag under, with the value set to the path of your custom background (if the value is left blank then it defaults to \img\backgrounds\background.png).
+supports image paths.
+<code>
+[basic]
+name=Schwimmble__Mod__Example
+desc=This__is__the__description__of__this__Schwimmble__mod.
+imgPath=\img\modPicture.png
+version=1.1.1
+
+[function]
+background=\img\backgrounds\modBackground.gif
+</code> would set the background picture to the image at \img\backgrounds\modBackground.gif
