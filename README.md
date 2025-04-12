@@ -39,6 +39,7 @@ go to the old schwimmble folder and rename the folder called "Schwimmble" to som
 STEP 3:
 drag the folder in the newly unzipped folder into the old schwimmble folder</br>
   </br>
+  </br>
 
 
 ### HOW TO USE STYLIZATION MENU: ###
