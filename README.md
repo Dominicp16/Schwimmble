@@ -1,4 +1,4 @@
-below instructions are made for Chromebooks and are assuming you downloaded the zip file<br/><br/>
+installation and update instructions are made for Chromebooks and are assuming you downloaded the zip file<br/><br/>
   
 ### TO INSTALL: ###
 STEP 1:
@@ -37,4 +37,7 @@ STEP 2:
 go to the old schwimmble folder and rename the folder called "Schwimmble" to something else, preferably the version number
 
 STEP 3:
-drag the folder in the newly unzipped folder into the old schwimmble folder
+drag the folder in the newly unzipped folder into the old schwimmble folder</br>
+  </br>
+
+### HOW TO USE STYLIZATION MENU: ###
