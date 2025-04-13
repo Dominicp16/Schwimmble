@@ -142,7 +142,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 ### MODS: (not yet implemented) ###
 
 create a folder, and in it put a file called "mod.config", and two folders called "img" and "modules"
-
+  </br>
 BASIC CONFIG:</br>
 put a [basic] tag at the top of your mod.config file
 
@@ -180,7 +180,7 @@ imgPath=\img\modPicture.png
 version=1.1.1
 </code> would set the version of the mod to v1.1.1
 
-
+  </br>
 FUNCTIONAL CONFIG:</br>
 put a [function] tag at the top of your mod.config file (typically a line break would go before it but not here for succinctness)
 
