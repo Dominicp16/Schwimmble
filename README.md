@@ -208,25 +208,26 @@ _F_ means that it is a function tag
 
 other notation to know:
 
-_M_ means that it is a metadata tag
-_*_ means that the tag is required
-_D=''_ will set the default value of the string (always set no matter what) to the exact text in the single quotes
-_D$=''_ will set the default value of the string (only set if the tag exists and does not have an equal sign) to the exact text in the quotes
-_type:string_ mean that a string is to be entered there (text in double quotes)
-_{curly brackets}_ mean that an array of properties is to be put there (in curly brackets)
-_U_ at the end of an array means that you can have an unlimited amount of properties in the array (only ones where the name is customizable)
-
-name='type:string' M *
-desc='type:string' M D='My Schwimmble mod'
-home='type:path' M D='%home%'
-img='type:path;image' M D='\img\picture.png'
-ver='type:SemVer;-ab' M D='1.0.0'
-background='type:path;image' F D$='\img\backgrounds\background.png' M
-cursors={'name'='type:path;image' U} M
-emojis={'name'='type:path;image' U} M
-styles={'name'={
-  name='type:string'
-  type='type:option;select/noSelect'
-  action='type:string'
-}} M
-run='type:string;javascript' M
+_M_ means that it is a metadata tag </br>
+_*_ means that the tag is required </br>
+_D=''_ will set the default value of the string (always set no matter what) to the exact text in the single quotes </br>
+_D$=''_ will set the default value of the string (only set if the tag exists and does not have an equal sign) to the exact text in the quotes </br>
+_type:string_ mean that a string is to be entered there (text in double quotes) </br>
+_{curly brackets}_ mean that an array of properties is to be put there (in curly brackets) </br>
+_U_ at the end of an array means that you can have an unlimited amount of properties in the array (only ones where the name is customizable) </br>
+ </br>
+  </br>
+name='type:string' M * </br>
+desc='type:string' M D='My Schwimmble mod' </br>
+home='type:path' M D='%home%' </br>
+img='type:path;image' M D='\img\picture.png' </br>
+ver='type:SemVer;-ab' M D='1.0.0' </br>
+background='type:path;image' F D$='\img\backgrounds\background.png' M </br>
+cursors={'name'='type:path;image' U} M </br>
+emojis={'name'='type:path;image' U} M </br>
+styles={'name'={ </br>
+  name='type:string' </br>
+  type='type:option;select/noSelect' </br>
+  action='type:string' </br>
+}} M </br>
+run='type:string;javascript' M </br>
