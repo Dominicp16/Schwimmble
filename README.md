@@ -20,13 +20,13 @@ click the puzzle piece next to the search box and find Schwimmble in the menu th
 
 ### TO UPDATE: ###
 STEP 1:
-install the new version and perform the first 2 steps
+install the new ver and perform the first 2 steps
 
 STEP 2:
 return to chrome://extensions and find Schwimmble, then press remove
 
 STEP 3: 
-perform installation steps 4 and 5 again with the new version folder<br/>
+perform installation steps 4 and 5 again with the new ver folder<br/>
 
 or:<br/>
 
@@ -34,7 +34,7 @@ STEP 1:
 unzip the downloaded .zip file (see step 2)
 
 STEP 2:
-go to the old schwimmble folder and rename the folder called "Schwimmble" to something else, preferably the version number
+go to the old schwimmble folder and rename the folder called "Schwimmble" to something else, preferably the ver number
 
 STEP 3:
 drag the folder in the newly unzipped folder into the old schwimmble folder</br>
@@ -170,14 +170,14 @@ desc="This is the description of this Schwimmble mod."
 img=\img\modPicture.png
 </code> would set the image for the mod to the file at <folder_where_mod.config_is>\img\profile.png
 
-you can add a "ver" element (optional), with the value set to the version of the mod (defaults to 0.0.1).
+you can add a "ver" element (optional), with the value set to the ver of the mod (defaults to 0.0.1).
 supports up to four integers (could have -alpha or -beta after one number, but only one of each) separated by periods.
 <code>
 [metadata]
 name="Schwimmble Mod Example"
 desc="This is the description of this Schwimmble mod."
 img=\img\modPicture.png
-version=1.1.1
+ver=1.1.1
 </code> would set the version of the mod to v1.1.1
 
   </br>
@@ -191,7 +191,7 @@ supports image paths.
 name="Schwimmble Mod Example"
 desc="This is the description of this Schwimmble mod."
 img=\img\modPicture.png
-version=1.1.1
+ver=1.1.1
 [function]
 background=\img\backgrounds\modBackground.gif
 </code> would set the background picture to the image at \img\backgrounds\modBackground.gif
@@ -210,11 +210,23 @@ other notation to know:
 
 _M_ means that it is a metadata tag
 _*_ means that the tag is required
-_D=``_ will set the default value of the string (always set no matter what) to the exact text in the backticks
-_D=``_ will set the default value of the string (always set no matter what) to the exact text in the backticks
-_"double quotes"_ mean that a string is to be enetered there (in double quotes)
+_D=''_ will set the default value of the string (always set no matter what) to the exact text in the single quotes
+_D$=''_ will set the default value of the string (only set if the tag exists and does not have an equal sign) to the exact text in the quotes
+_type:string_ mean that a string is to be entered there (text in double quotes)
 _{curly brackets}_ mean that an array of properties is to be put there (in curly brackets)
+_U_ at the end of an array means that you can have an unlimited amount of properties in the array (only ones where the name is customizable)
 
-name="" M*
-desc="" M
-img='type:path;image' M
+name='type:string' M *
+desc='type:string' M D='My Schwimmble mod'
+home='type:path' M D='%home%'
+img='type:path;image' M D='\img\picture.png'
+ver='type:SemVer;-ab' M D='1.0.0'
+background='type:path;image' F D$='\img\backgrounds\background.png' M
+cursors={'name'='type:path;image' U} M
+emojis={'name'='type:path;image' U} M
+styles={'name'={
+  name='type:string'
+  type='type:option;select/noSelect'
+  action='type:string'
+}} M
+run='type:string;javascript' M
