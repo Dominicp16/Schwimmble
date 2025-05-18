@@ -226,8 +226,8 @@ background='type:path;image' F D$='\img\backgrounds\background.png' M </br>
 cursors={'name'='type:path;image' U} M </br>
 emojis={'name'='type:path;image' U} M </br>
 styles={'name'={ </br>
-  name='type:string' </br>
-  type='type:option;select/noSelect' </br>
-  action='type:string' </br>
+‌  name='type:string' </br>
+‌  type='type:option;select/noSelect' </br>
+‌  action='type:string' </br>
 }} M </br>
 run='type:string;javascript' M </br>
