@@ -230,4 +230,5 @@ styles={'name'={ </br>
 ‌   type='type:option;select/noSelect' </br>
 ‌   action='type:string' </br>
 }} M </br>
-run='type:string;javascript' M </br>
+startup='type:path;javascript' M D$='/js/mod.js'</br>
+css='type:path;css' M D$='/css/mod.css'</br>
