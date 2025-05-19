@@ -222,13 +222,13 @@ desc='type:string' M D='My Schwimmble mod' </br>
 home='type:path' M D='%home%' </br>
 img='type:path;image' M D='\img\picture.png' </br>
 ver='type:SemVer;-ab' M D='1.0.0' </br>
-background='type:path;image' F D$='\img\backgrounds\background.png' M </br>
-cursors={'name'='type:path;image' U} M </br>
-emojis={'name'='type:path;image' U} M </br>
-styles={'name'={ </br>
+background='type:path;image' F </br>
+cursor={'name'='type:path;image' U} </br>
+emoji={'name'='type:path;image' U} </br>
+style={'name'={ </br>
 ‌   name='type:string' </br>
 ‌   type='type:option;select/noSelect' </br>
 ‌   action='type:string' </br>
 }} M </br>
-startup='type:path;javascript' M D$='/js/mod.js'</br>
-css='type:path;css' M D$='/css/mod.css'</br>
+startup='type:path;javascript' F D$='/js/mod.js'</br>
+css='type:path;css' F D$='/css/mod.css'</br>
