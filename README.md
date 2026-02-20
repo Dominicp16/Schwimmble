@@ -16,8 +16,6 @@ click "Load Unpacked" and go inside the folder that is inside the previously ext
 STEP 5:
 click the puzzle piece next to the search box and find Schwimmble in the menu that opens, and click the pin button next to it.
 
-<br/>
-
 ### TO INSTALL: (if you do have your own chromebook) ###
 STEP 1:
 find the downloaded .zip file in "My Drive" and double-click it
@@ -104,6 +102,8 @@ DA: adds a custom discreet hyperlink to the selected text (a hyperlink without a
 SMR: turns the selected text extra-small
 
 BIGR: turns the selected text extra-big</br>
+
+<br/>
 
 ### EMOJIS: ###
 to use emojis, you put the emoji name between two colons (some names have slashes, DO NOT type the slashes when putting the emoji in Schwimmble). you can hover over an emoji in someone's message to see the name of it
