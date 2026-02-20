@@ -54,6 +54,9 @@ go to the old schwimmble version folder and rename the folder called "Schwimmble
 
 STEP 3:
 drag the folder in the newly unzipped folder into the old schwimmble version folder</br>
+
+if you still see the popup asking you to update you may need to go into chrome://extensions and reload schwimmble (the curled arrow next to the extension name)
+
   </br>
   </br>
 
