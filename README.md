@@ -52,10 +52,10 @@ STEP 1:
 unzip the downloaded .zip file (see step 2)
 
 STEP 2:
-go to the old schwimmble folder and rename the folder called "Schwimmble" to something else, preferably the ver number
+go to the old schwimmble version folder and rename the folder called "Schwimmble" to something else, preferably the ver number
 
 STEP 3:
-drag the folder in the newly unzipped folder into the old schwimmble folder</br>
+drag the folder in the newly unzipped folder into the old schwimmble version folder</br>
   </br>
   </br>
 
