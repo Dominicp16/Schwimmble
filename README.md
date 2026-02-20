@@ -114,7 +114,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 :frown:
 
-:grin:
+:\grin:
 
 :hmm:
 
