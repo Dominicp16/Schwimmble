@@ -1,17 +1,35 @@
 installation and update instructions are made for Chromebooks and are assuming you downloaded the zip file<br/><br/>
   
-### TO INSTALL: ###
+### TO INSTALL: (if you don't have your own chromebook) ###
 STEP 1:
-find the downloaded .zip file in "My Drive" and drag it to "Downloads". go to downloads
+find the downloaded .zip file in "My Drive" and double-click it
 
 STEP 2:
-fin the file in Downloads and right-click (click with two fingers) on the file and from the menu, click "Extract All". there should be a folder in Downloads that shares a name with the zip file.
+click "Extract All". there should be a folder in "My Drive" that shares a name with the zip file.
 
 STEP 3:
 go to chrome://extensions and enable developer mode
 
 STEP 4:
 click "Load Unpacked" and go inside the folder that is inside the previously extracted folder
+
+STEP 5:
+click the puzzle piece next to the search box and find Schwimmble in the menu that opens, and click the pin button next to it.
+
+<br/>
+
+### TO INSTALL: (if you do have your own chromebook) ###
+STEP 1:
+find the downloaded .zip file in "My Drive" and double-click it
+
+STEP 2:
+drag the folder you see inside the archive to "Downloads" and then go there
+
+STEP 3:
+go to chrome://extensions and enable developer mode
+
+STEP 4:
+click "Load Unpacked" and navigate to "Downloads", choose the folder you added called "Schwimmble"
 
 STEP 5:
 click the puzzle piece next to the search box and find Schwimmble in the menu that opens, and click the pin button next to it.
@@ -75,7 +93,7 @@ HL: highlights the selected text (you can input a hex code or one of <a href="ht
 
 TT: adds a tooltip to the selected text (shows a message when you hover over the text)
 
-CC: gives a custom cursor to the selected text (changes your cursor when you hover over the text, you can choose one of <a href="https://www.w3schools.com/cssref/pr_class_cursor.php">these (except 'url' and including 'vertical-text'</a>, or choose a custom schwimmble cursor (default-custom, pointer-custom, threat)
+CC: gives a custom cursor to the selected text (changes your cursor when you hover over the text, you can choose one of <a href="https://www.w3schools.com/cssref/pr_class_cursor.php">these (except 'url' and including 'vertical-text'</a>, or choose a custom schwimmble cursor (default-custom, pointer-custom, threat, adoring)
 
 USR: the resulting tag acts as the username section of Schwimmble messages, so you can apply formatting to the username
 
@@ -96,7 +114,7 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 
 :frown:
 
-:\grin:
+:grin:
 
 :hmm:
 
@@ -135,6 +153,30 @@ to use emojis, you put the emoji name between two colons (some names have slashe
 :ahh:
 
 :glod:
+
+:aww:
+
+:fork:
+
+:fork_you:
+
+:gas:
+
+:purples:
+
+:911:
+
+:isis:
+
+:haw:
+
+:die:
+
+:trump:
+
+:white:
+
+:joel:
 
   </br>
   </br>
