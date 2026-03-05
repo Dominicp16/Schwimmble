@@ -1,22 +1,6 @@
 installation and update instructions are made for Chromebooks and are assuming you downloaded the zip file<br/><br/>
   
-### TO INSTALL: (if you don't have your own chromebook) ###
-STEP 1:
-find the downloaded .zip file in "My Drive" and double-click it
-
-STEP 2:
-click "Extract All". there should be a folder in "My Drive" that shares a name with the zip file.
-
-STEP 3:
-go to chrome://extensions and enable developer mode
-
-STEP 4:
-click "Load Unpacked" and go inside the folder that is inside the previously extracted folder
-
-STEP 5:
-click the puzzle piece next to the search box and find Schwimmble in the menu that opens, and click the pin button next to it.
-
-### TO INSTALL: (if you do have your own chromebook) ###
+### TO INSTALL: ###
 STEP 1:
 find the downloaded .zip file in "My Drive" and double-click it
 
